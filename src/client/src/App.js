@@ -1,5 +1,5 @@
 import React from 'react';
-import HelloWorld from './HelloWorld';
+import HelloWorld from './client';
 
 const App = () => {
   return (
@@ -8,13 +8,5 @@ const App = () => {
     </div>
   );
 };
-
-// function App() {
-//   return (
-//     <div>
-//       <h1>Hello, World!</h1>
-//     </div>
-//   );
-// }
 
 export default App;
