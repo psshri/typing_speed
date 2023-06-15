@@ -1,10 +1,10 @@
 import React from 'react';
-import HelloWorld from './client';
+import Client from './client';
 
 const App = () => {
   return (
     <div>
-      <HelloWorld />
+      <Client />
     </div>
   );
 };
